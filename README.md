@@ -4,7 +4,8 @@ I'm *Ethan*, although typically you'll see me as *enf2021*, or here, as *enf2025
 
 I know a few languages, those being: 
 * mcfunction/datapacks (minecraft)
-* Python, C#
+* Python
+* C#
 * GDscript (godot)
 * some light glsl.
 
