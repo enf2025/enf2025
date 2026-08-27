@@ -8,9 +8,10 @@ I know a few languages, those being:
 * C#
 * GDscript (godot)
 * some light glsl.
+* and I'm learning Java (I am not happy about this)
 
-Here, though, you'll mostly just see datapacks, as those are the only projects I manage to finish. Hopefully that changes!
+Here, though, you'll mostly just see datapacks, as those are the only projects I ever get to a sharable state. Hopefully that changes, as I want to be a game dev one day. Sadly, I hear that takes a while, and I'm still in school.
 
-You can contact me at ethanbutinternet@gmail.com, although I rarely check that email during the school year.
+You can contact me at ethanbutinternet@gmail.com, although I only occasionally check that email.
 
 Have a nice day!
